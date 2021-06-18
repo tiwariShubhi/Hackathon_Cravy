@@ -45,7 +45,8 @@ When a user searches for recipes by selecting various ingredients ,
     - Dairy
     - Pulses
  2. View popular recipes
-![Popular_recepies](https://user-images.githubusercontent.com/31347794/122600712-d35d3800-d08d-11eb-9c0b-d3315cc5a800.png)
+<img width="261" alt="Popular_recepies" src="https://user-images.githubusercontent.com/31347794/122601221-96457580-d08e-11eb-80d8-c5cad877d74f.png">
+
  3. Read recipe details like :
     - Recipe Name
     - Total cook time
