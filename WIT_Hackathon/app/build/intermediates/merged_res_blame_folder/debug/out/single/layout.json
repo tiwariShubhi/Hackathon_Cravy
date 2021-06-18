@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\WIT_Hackathon\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_main.xml",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\WIT_Hackathon\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\WIT_Hackathon\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_second.xml",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\WIT_Hackathon\\app\\src\\main\\res\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\WIT_Hackathon\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_first.xml",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\WIT_Hackathon\\app\\src\\main\\res\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\WIT_Hackathon\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_all_recipe.xml",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\WIT_Hackathon\\app\\src\\main\\res\\layout\\fragment_all_recipe.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\WIT_Hackathon\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\WIT_Hackathon\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\WIT_Hackathon\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_recipe_detail.xml",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\WIT_Hackathon\\app\\src\\main\\res\\layout\\activity_recipe_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\WIT_Hackathon\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\recipe_item.xml",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\WIT_Hackathon\\app\\src\\main\\res\\layout\\recipe_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\WIT_Hackathon\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_search_result.xml",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\WIT_Hackathon\\app\\src\\main\\res\\layout\\activity_search_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\StudioProjects\\WIT_Hackathon\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Administrator\\StudioProjects\\WIT_Hackathon\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

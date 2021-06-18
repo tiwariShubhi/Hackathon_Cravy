@@ -1,0 +1,70 @@
+com/example/recipeapp/MyAdapter.java
+ com.example.recipeapp.MyAdapter
+com/example/recipeapp/DataClass.java
+ com.example.recipeapp.DataClass
+com/example/recipeapp/SecondFragment.java
+ com.example.recipeapp.SecondFragment
+com/example/recipeapp/BuildConfig.java
+ com.example.recipeapp.BuildConfig
+com/example/recipeapp/databinding/FragmentSecondBinding.java
+ com.example.recipeapp.databinding.FragmentSecondBinding
+com/example/recipeapp/databinding/ActivitySplashBinding.java
+ com.example.recipeapp.databinding.ActivitySplashBinding
+com/example/recipeapp/databinding/ActivityMainBinding.java
+ com.example.recipeapp.databinding.ActivityMainBinding
+com/example/recipeapp/databinding/ActivityRecipeDetailBinding.java
+ com.example.recipeapp.databinding.ActivityRecipeDetailBinding
+com/example/recipeapp/Adapter.java
+ com.example.recipeapp.Adapter
+ com.example.recipeapp.Adapter$ViewHolder
+ com.example.recipeapp.Adapter$ViewHolder$1
+com/example/recipeapp/Splash.java
+ com.example.recipeapp.Splash
+ com.example.recipeapp.Splash$1
+com/example/recipeapp/AllRecipe.java
+ com.example.recipeapp.AllRecipe
+ com.example.recipeapp.AllRecipe$1
+ com.example.recipeapp.AllRecipe$10
+ com.example.recipeapp.AllRecipe$11
+ com.example.recipeapp.AllRecipe$12
+ com.example.recipeapp.AllRecipe$2
+ com.example.recipeapp.AllRecipe$3
+ com.example.recipeapp.AllRecipe$4
+ com.example.recipeapp.AllRecipe$5
+ com.example.recipeapp.AllRecipe$6
+ com.example.recipeapp.AllRecipe$7
+ com.example.recipeapp.AllRecipe$8
+ com.example.recipeapp.AllRecipe$9
+com/example/recipeapp/RecipeDetail.java
+ com.example.recipeapp.RecipeDetail
+com/example/recipeapp/databinding/ContentMainBinding.java
+ com.example.recipeapp.databinding.ContentMainBinding
+com/example/recipeapp/MainActivity.java
+ com.example.recipeapp.MainActivity
+ com.example.recipeapp.MainActivity$1
+com/example/recipeapp/FirstFragment.java
+ com.example.recipeapp.FirstFragment
+ com.example.recipeapp.FirstFragment$1
+ com.example.recipeapp.FirstFragment$10
+ com.example.recipeapp.FirstFragment$11
+ com.example.recipeapp.FirstFragment$12
+ com.example.recipeapp.FirstFragment$13
+ com.example.recipeapp.FirstFragment$14
+ com.example.recipeapp.FirstFragment$2
+ com.example.recipeapp.FirstFragment$3
+ com.example.recipeapp.FirstFragment$4
+ com.example.recipeapp.FirstFragment$5
+ com.example.recipeapp.FirstFragment$6
+ com.example.recipeapp.FirstFragment$7
+ com.example.recipeapp.FirstFragment$8
+ com.example.recipeapp.FirstFragment$9
+com/example/recipeapp/SearchResult.java
+ com.example.recipeapp.SearchResult
+com/example/recipeapp/databinding/ActivitySearchResultBinding.java
+ com.example.recipeapp.databinding.ActivitySearchResultBinding
+com/example/recipeapp/databinding/FragmentFirstBinding.java
+ com.example.recipeapp.databinding.FragmentFirstBinding
+com/example/recipeapp/databinding/FragmentAllRecipeBinding.java
+ com.example.recipeapp.databinding.FragmentAllRecipeBinding
+com/example/recipeapp/databinding/RecipeItemBinding.java
+ com.example.recipeapp.databinding.RecipeItemBinding

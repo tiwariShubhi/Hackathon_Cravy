@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+   >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="@android:color/transparent">
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/cardView"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:elevation="10dp"
+            app:cardBackgroundColor="@android:color/transparent"
+            app:cardCornerRadius="10dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="90dp"
+            android:background="#40FFFFFF"
+                >
+
+                <ImageView
+                    android:id="@+id/RecipeImage"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+
+                    android:layout_marginTop="10dp"
+                    android:src="@drawable/paneer"></ImageView>
+
+                <LinearLayout
+                    android:layout_width="260dp"
+                    android:layout_height="60dp"
+                    android:layout_marginTop="10dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/RecipeName"
+                        android:layout_width="200dp"
+                        android:layout_height="40dp"
+                        android:layout_marginLeft="10dp"
+                        android:text="RecipeName"
+                        android:textColor="@color/white"
+                        android:textSize="20sp"
+                        android:textStyle="bold"></TextView>
+
+                    <TextView
+                        android:id="@+id/RecipeCourse"
+                        android:layout_width="200dp"
+                        android:layout_height="20dp"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginTop="1dp"
+                        android:text="Course"
+                        android:textColor="@color/white"
+                        android:textSize="15sp"></TextView>
+                </LinearLayout>
+
+
+                <TextView
+                    android:id="@+id/RecipeDuration"
+                    android:layout_width="50dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="10dp"
+                    android:text="Time"
+                    android:textAlignment="center"
+                    android:textColor="@color/white"
+                    android:textSize="15sp"></TextView>
+
+                <ImageView
+                    android:id="@+id/imageView"
+                    android:layout_width="50dp"
+                    android:layout_height="35dp"
+                    android:layout_marginLeft="-40dp"
+
+                    android:layout_marginTop="35dp"
+                    android:layout_marginRight="30dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/baseline_timer_white_24dp" />
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+    </RelativeLayout>
+</RelativeLayout>
