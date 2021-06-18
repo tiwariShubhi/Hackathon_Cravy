@@ -20,6 +20,8 @@ Each recipe is detailed with the list of ingredients, and steps to follow.
 If you are still unsure you can browse from our list of popular recipes.
 For all your food cravings you have cravy. 
 
+## Demo Video
+
 ## The Architecture
 
 ![image](https://user-images.githubusercontent.com/31347794/122578142-3a202880-d071-11eb-8052-21bc0780e31b.png)
@@ -47,11 +49,6 @@ When a user searches for recipes by selecting various ingredients ,
     - Servings
     - Cuisine
     - Course 
-
-## Project Screens
-
-
-## Demo Video
 
 
 ## Future work
