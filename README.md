@@ -34,7 +34,7 @@ When a user searches for recipes by selecting various ingredients ,
 6. Then recipe results are sent to the Android front end UI where user can see the recipes and follow them.
 
 
-Currently the app supports the following features : 
+## Supported Fetures
 1. Searching recipes based on ingredients from various categories : 
     - Veggies
     - Cereals
@@ -47,15 +47,21 @@ Currently the app supports the following features :
     - Servings
     - Cuisine
     - Course 
-  
-## The Road ahead / Future work
+
+## Project Screens
+
+
+## Demo Video
+
+
+## Future work
 
 1. Sorting and filtering on the basis of cook time, cuisine etc.
 2. Integrate voice and image based search for ingredients
 3. Show nutritional information for each recipe like Calorie count
 4. Favourites option - user can put his liked recipes in a favourite list
 
-## Project Screens
+
 
 
 ## Meet the team
