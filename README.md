@@ -44,6 +44,8 @@ When a user searches for recipes by selecting various ingredients ,
     - Cereals
     - Dairy
     - Pulses
+  <img width="265" alt="Search_results" src="https://user-images.githubusercontent.com/31347794/122601555-18ce3500-d08f-11eb-90df-ba89b807bf83.png">
+
  2. View popular recipes
 <img width="261" alt="Popular_recepies" src="https://user-images.githubusercontent.com/31347794/122601221-96457580-d08e-11eb-80d8-c5cad877d74f.png">
 
@@ -53,6 +55,7 @@ When a user searches for recipes by selecting various ingredients ,
     - Servings
     - Cuisine
     - Course 
+<img width="300" alt="Recipe_Detail" src="https://user-images.githubusercontent.com/31347794/122601583-2388ca00-d08f-11eb-9141-8e307f3a1bbe.png">
 
 
 ## Future work
@@ -67,6 +70,7 @@ When a user searches for recipes by selecting various ingredients ,
 
 ## Meet the team
 
+![image](https://user-images.githubusercontent.com/31347794/122601683-4adf9700-d08f-11eb-898b-33b41e2fa68a.png)
 
 
 
