@@ -22,13 +22,41 @@ For all your food cravings you have cravy.
 
 ## The Architecture
 
-![image](https://user-images.githubusercontent.com/31347794/122577491-7acb7200-d070-11eb-9ada-def0963c0c86.png)
+![image](https://user-images.githubusercontent.com/31347794/122578142-3a202880-d071-11eb-8052-21bc0780e31b.png)
 
 
-The Android app communicates to a Flask backend via REST Calls.
-The Flask backend communicates to the IBM Cloudant Database and fetches recipe details based on user search query. 
-The Flask backend then parses the query, filters useful results and selects the best recipe matches for the user query based on a scoring algorithm.
-Then recipe results are sent to the Android front end UI where user can see all recipe results.
+When a user searches for recipes by selecting various ingredients ,
+1. The Android UI sends this ingredient list to the Android backend.
+2. Next the Android backend communicates to a Flask backend via REST Calls. It sends the user query as a JSON object.
+3. The Flask backend then communicates to the IBM Cloudant Database via python Cloudant API  
+4. Cloudant communicates back sending the required search results containing recipe details like stesp, duration cuisine etc. for the search query. 
+5. The Flask backend then parses the query, filters useful results and selects the best recipe matches for the user query based on a scoring algorithm.
+6. Then recipe results are sent to the Android front end UI where user can see the recipes and follow them.
+
+
+Currently the app supports the following features : 
+1. Searching recipes based on ingredients from various categories : 
+    - Veggies
+    - Cereals
+    - Dairy
+    - Pulses
+ 2. View popular recipes
+ 3. Read recipe details like :
+    - Recipe Name
+    - Total cook time
+    - Servings
+    - Cuisine
+    - Course 
+  
+## The Road ahead / Future work
+
+1. Sorting and filtering on the basis of cook time, cuisine etc.
+2. Integrate voice and image based search for ingredients
+3. Show nutritional information for each recipe like Calorie count
+4. Favourites option - user can put his liked recipes in a favourite list
+
+## Project Screens
+
 
 ## Meet the team
 
