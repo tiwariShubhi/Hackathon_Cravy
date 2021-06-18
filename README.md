@@ -21,6 +21,8 @@ If you are still unsure you can browse from our list of popular recipes.
 For all your food cravings you have cravy. 
 
 ## Demo Video
+https://youtu.be/A0609XR2JDc
+
 
 ## The Architecture
 
@@ -36,13 +38,14 @@ When a user searches for recipes by selecting various ingredients ,
 6. Then recipe results are sent to the Android front end UI where user can see the recipes and follow them.
 
 
-## Supported Fetures
+## Supported Features
 1. Searching recipes based on ingredients from various categories : 
     - Veggies
     - Cereals
     - Dairy
     - Pulses
  2. View popular recipes
+![Popular_recepies](https://user-images.githubusercontent.com/31347794/122600712-d35d3800-d08d-11eb-9c0b-d3315cc5a800.png)
  3. Read recipe details like :
     - Recipe Name
     - Total cook time
